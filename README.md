@@ -1,7 +1,7 @@
 # 🏛️ Anwar Sons | Luxury Garments & Premium Exports
 **Project by IQ-Digital-Architects**
 
-Anwar Sons is a premium heritage brand established in 1990, specializing in the finest cotton and luxury garments in Narowal, Pakistan. This project is a high-end digital representation of their craftsmanship and legacy.
+Anwar Sons is a premium heritage brand established in 1990, specializing in the finest cotton and luxury garments in Narowal, Pakistan. This project is a high-end digital representation of their craftsmanship and legacy .
 
 ---
 
